@@ -13,7 +13,7 @@ This repository contains two pipelines:
 
 The EV pipeline is designed around the structure of the input data: target defects are dark, square-like blobs, while major false positives are long vertical components and stripe patterns. The final method uses frequency-domain stripe suppression, edge-preserving smoothing, oriented morphological filtering, and shape-based contour filtering.
 
-![EV preprocessing pipeline](assets/ev_pipeline_ev1.jpg)
+![EV preprocessing pipeline](assets/ev_pipeline_ev2.jpg)
 
 ![EV overlay result](assets/ev_overlay_ev1.jpg)
 
