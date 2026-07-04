@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local input datasets
+ev/EV*.jpg
+ev/EV_ROI_example.jpg
+aruco/Aruco_test*.jpg
+
+# Generated outputs
+ev/Result/
+ev/Result*/
+aruco/Result/
+aruco/Result*/
+
+# Reports, submissions, and temporary exports
+*.pdf
+*.docx
+*.zip
+tmp_pdf_pages/
+tmp_pdf_images/
+강의자료/
+최종/
+
