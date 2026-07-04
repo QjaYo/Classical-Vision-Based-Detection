@@ -19,6 +19,6 @@ aruco/Result*/
 *.zip
 tmp_pdf_pages/
 tmp_pdf_images/
+extracted_pdf_images/
 강의자료/
 최종/
-
